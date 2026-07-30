@@ -1,0 +1,91 @@
+# 📊 Análise de Comentários - Banco Bradesco
+
+![Status](https://img.shields.io/badge/Projeto-Testado-brightgreen)
+![Versão](https://img.shields.io/badge/Versão-1.0-blue)
+![Licença](https://img.shields.io/badge/Licença-MIT-orange)
+
+---
+
+## 📖 Sobre o Projeto
+Este repositório contém uma análise completa de comentários sobre o **Banco Bradesco**, coletados em redes sociais e na Play Store.  
+O objetivo é fornecer insights claros e objetivos para propostas de melhoria no serviço bancário.
+
+---
+
+## 🎯 Objetivos
+- Identificar principais temas de feedback.  
+- Avaliar predominância de comentários positivos ou negativos.  
+- Comparar preferências entre bancos físicos e digitais.  
+- Listar vantagens e desvantagens dos bancos físicos.  
+
+---
+
+## 📊 Resumo dos Comentários
+
+### 1. Redes sociais
+- **Principais temas:** instabilidade do aplicativo, falhas no Pix, saldo temporariamente indisponível.  
+- **Tendência:** Predominância de feedbacks **negativos**.  
+- **Exemplos:**  
+  - “O app do Bradesco acabou com o meu dia.”  
+  - “Bradesco, solta meu dinheiro, eu tenho contas a pagar.”  
+
+---
+
+### 2. Play Store
+- **App principal (Conta, Cartão e Pix):**  
+  - Nota média: **4,7 estrelas** (5,9 milhões de avaliações).  
+  - Positivos: variedade de serviços, praticidade.  
+  - Negativos: travamentos, suporte difícil.  
+
+- **App NextJoy (infantil):**  
+  - Nota média: **3,9 estrelas** (11 mil avaliações).  
+  - Positivos: educação financeira para jovens.  
+  - Negativos: bugs ocasionais.  
+
+---
+
+### 3. Preferência dos clientes
+- **57% dos brasileiros usam bancos físicos e digitais simultaneamente.**  
+- Bancos digitais → simplicidade, menos burocracia, tarifas menores.  
+- Bancos físicos → conta salário, serviços estruturados, credibilidade.  
+- **Satisfação:** NPS médio de digitais (23) > tradicionais (9).  
+
+---
+
+### 4. Vantagens e Desvantagens dos Bancos Físicos
+- **Vantagens:**  
+  - Atendimento presencial com gerente.  
+  - Ampla variedade de produtos (crédito, seguros, investimentos).  
+  - Credibilidade e tradição.  
+
+- **Desvantagens:**  
+  - Tarifas mais altas.  
+  - Burocracia e demora em processos.  
+  - Experiência digital inferior.  
+
+---
+
+## 📋 Tabela Resumo
+
+| Tema                         | Tendência (%)** | Comentários Relevantes | Observações |
+|------------------------------|-----------------|------------------------|-------------|
+| Instabilidade do app         | 65% negativo    | “App fora do ar 11h seguidas” | Impacto direto em pagamentos e Pix |
+| Dinheiro “sumindo”           | 20% negativo    | “Saldo mostra apenas R$1” | Problema recorrente em dias de pagamento |
+| Funcionalidades do app       | 10% positivo    | “Pix rápido e sem taxas” | Boa avaliação geral na Play Store |
+| Atendimento presencial       | 5% positivo     | “Gerente resolve questões complexas” | Vantagem dos bancos físicos |
+| Preferência híbrida          | —               | “Uso digital para agilidade e físico para salário” | 57% dos brasileiros usam ambos |
+
+**Percentuais indicam predominância relativa nos comentários analisados, não estatísticas absolutas.  
+
+---
+
+## 🚨 Limitações
+- Dados refletem comentários públicos recentes em redes sociais e na Play Store.  
+- Percentuais são estimativas qualitativas, não números oficiais.  
+- Informações podem variar conforme período e região.  
+
+---
+
+## 📜 Licença
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar e adaptar conforme necessário.
