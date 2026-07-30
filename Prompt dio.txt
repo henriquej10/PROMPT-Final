@@ -1,0 +1,32 @@
+Ola Copilot!
+
+Preciso de uma análise completa sobre comentários de um banco físico!
+
+Aqui abaixo estão as etapas que você deve seguir!
+
+1 Ação
+-Busque na sua base de dados comentários sobre o banco Bradesco
+-Analise comentários nas redes sociais do Bradesco
+-Busque saber se há mais feedbacks negativos ou positivos
+-Busque também na play store os comentários no aplicativo do Bradesco e forneça também esse feedback
+-Analise também se as pessoas que deram o feedback preferem bancos físicos ou os digitais
+-Quais as vantagens e desvantagens dos bancos físicos
+
+2 Entrega
+-Me entregue isso em formato de resumo para apresentação, contendo uma tabela, com os principais temas, porcentagens e comentários mais relevantes
+
+3 Objetivo
+-O resultado será utilizado para a análise de propostas de melhorias do serviço bancário
+
+4 Resultado
+-O resultado precisa ser claro, objetivo e bem organizado, baseado nos comentários fornecidos.
+
+5 Restrições
+-Não exponha nomes pessoais
+-Não invente dados e estatísticas
+-Use apenas dados reais
+-Use linguagem clara e simples, uma linguagem direta
+-Se houver informação insuficiente indique a limitação
+-Não invente números, causas ou conclusões
+-Não exponha dados sensíveis
+-Não exponha sua opinião
