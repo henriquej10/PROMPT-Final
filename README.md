@@ -24,5 +24,5 @@ O objetivo é fornecer uma solução prática, simples e eficiente para quem des
 ## 🛠️ Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/henriquej10/PROMPT-Final.git
 
