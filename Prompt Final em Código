@@ -1,0 +1,64 @@
+# 📊 Análise de Comentários - Banco Bradesco
+
+![Status](https://img.shields.io/badge/Projeto-Testado-brightgreen)
+![Versão](https://img.shields.io/badge/Versão-1.0-blue)
+![Licença](https://img.shields.io/badge/Licença-MIT-orange)
+
+---
+
+## 📖 Instruções do Projeto
+
+### 1. Ação
+- Buscar comentários sobre o banco **Bradesco**  
+- Analisar comentários nas **redes sociais** do Bradesco  
+- Identificar se há mais **feedbacks negativos ou positivos**  
+- Buscar também na **Play Store** os comentários no aplicativo do Bradesco  
+- Analisar se os clientes preferem **bancos físicos ou digitais**  
+- Levantar **vantagens e desvantagens dos bancos físicos**
+
+---
+
+### 2. Entrega
+- Resumo para apresentação  
+- Tabela com principais temas, porcentagens e comentários mais relevantes  
+
+---
+
+### 3. Objetivo
+- Utilizar o resultado para análise de **propostas de melhorias** do serviço bancário  
+
+---
+
+### 4. Resultado
+- Precisa ser **claro, objetivo e bem organizado**  
+- Baseado nos comentários fornecidos  
+
+---
+
+### 5. Restrições
+- Não expor **nomes pessoais**  
+- Não inventar **dados e estatísticas**  
+- Usar apenas **dados reais**  
+- Linguagem **clara e direta**  
+- Se houver informação insuficiente → indicar a **limitação**  
+- Não inventar números, causas ou conclusões  
+- Não expor dados sensíveis  
+- Não expor opinião própria  
+
+---
+
+## 📋 Estrutura de Apresentação
+
+| Etapa        | Descrição                                                                 |
+|--------------|---------------------------------------------------------------------------|
+| Ação         | Coleta e análise de comentários sobre o Bradesco                          |
+| Entrega      | Resumo com tabela organizada                                               |
+| Objetivo     | Propostas de melhorias no serviço bancário                                |
+| Resultado    | Clareza, objetividade e organização                                       |
+| Restrições   | Sem nomes pessoais, sem dados inventados, apenas informações reais        |
+
+---
+
+## 📜 Licença
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar e adaptar conforme necessário.
